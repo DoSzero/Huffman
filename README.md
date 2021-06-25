@@ -1,7 +1,7 @@
 # Huffman
 SeHuffman - Huffman encoding and decoding, recording files in the text (txt)
 
-
+# How this work ?
 
 
 # Screenshots 
@@ -25,6 +25,3 @@ SeHuffman - Huffman encoding and decoding, recording files in the text (txt)
 <p align="center">
 <img src="Screenshots/005.png" alt="drawing1" width="700">
 </p>
-
-![](Screenshots/5.png)
-![](Screenshots/4.png)

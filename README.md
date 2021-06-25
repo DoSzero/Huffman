@@ -15,7 +15,13 @@ The classical Huffman algorithm on the input tables of the frequencies encounter
 
 **Fore example :
 A=15 B=7	C=6	D=6	E=5**
+<p align="center">
+<img src="Screenshots/ForExample.png" alt="drawing1" width="500">
+</p>
 
+<p align="center">
+<img src="Screenshots/ForExample2.png" alt="drawing1" width="500">
+</p>
 
 # Screenshots 
 
